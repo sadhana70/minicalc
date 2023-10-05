@@ -5,7 +5,7 @@ A simple calculator web application built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-You can try out the calculator app live at [Demo Link](https://example.com/calculator).
+You can try out the calculator app live at [Demo Link](https://kind-cliff-097b89500.3.azurestaticapps.net/).
 
 ## Features
 
