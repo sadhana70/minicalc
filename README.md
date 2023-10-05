@@ -19,4 +19,4 @@ You can try out the calculator app live at [Demo Link](https://example.com/calcu
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/yourusername/calculator-app.git
+   git clone https://github.com/sadhana70/minicalc.git
