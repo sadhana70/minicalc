@@ -11,3 +11,62 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.calculator{
+    width: 300px;
+    height: 500px;
+    box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.3);
+    border-radius: 12px;
+    background: #22252D;
+    overflow: hidden;
+}
+
+form input{
+    width: 100%;
+    height: 150px;
+    border: none;
+    border-radius: 12px;
+    font-size: 2rem;
+    padding: 1rem;
+    color: white;
+    background: black;
+    text-align: right;
+    pointer-events: none;
+}
+
+.buttons{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+button{
+    flex: 0 0 22%;
+    margin: 5px 0;
+    border: 1px solid #22252D;
+    width: 60px;
+    height: 52px;
+    font-size: 22px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-yellow{
+    background-color: rgb(235, 163, 10);
+    color: #efeff2;
+}
+
+.btn-grey{
+    background-color: rgb(156, 156, 141);
+    color: #efeff2;
+}
+
+.btn-equal{
+    background-color: rgb(230, 114, 158);
+}
+
+.btn-clear{
+    background-color: rgb(228, 82, 82);
+}
