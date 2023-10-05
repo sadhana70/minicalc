@@ -1,8 +1,7 @@
 # minicalc
+A simple calculator web application built using HTML, CSS, and JavaScript.
 
 ![Calculator App Screenshot](calc.png)
-
-A simple calculator web application built using HTML, CSS, and JavaScript.
 
 ## Demo
 
